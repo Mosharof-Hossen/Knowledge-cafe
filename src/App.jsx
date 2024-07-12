@@ -20,7 +20,7 @@ function App() {
   }
   console.log(readingTime);
   return (
-    <div className='container mx-auto md:p-12 p-5'>
+    <div className='container mx-auto md:px-12 '>
       <Header></Header>
       <div className='md:flex max-w-6xl mx-auto'>
         <Blogs handleAddBookmarks={handleAddBookmarks} handleMarkRead={handleMarkRead}></Blogs>
