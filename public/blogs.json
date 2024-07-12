@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/1JCHKRq/1.jpg",
+      "title": "Understanding JavaScript",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/gWJCSHL/boy1.png",
+      "posted_date": "June 15, 2023",
+      "reading_time": 5,
+      "hashtags": ["JavaScript", "Programming", "Web Development"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/k8p3bhN/2.png",
+      "title": "Introduction to React",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/j6ZyD17/girl1.jpg",
+      "posted_date": "July 1, 2023",
+      "reading_time": 8,
+      "hashtags": ["React", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/vVfbfyw/3.png",
+      "title": "Mastering CSS Grid",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/9cvXMDD/boy2.png",
+      "posted_date": "May 20, 2023",
+      "reading_time": 7,
+      "hashtags": ["CSS", "Web Design", "Grid"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/FHfRcnG/4.jpg",
+      "title": "The Power of Python",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/m07h458/girl2.jpg",
+      "posted_date": "June 10, 2023",
+      "reading_time": 6,
+      "hashtags": ["Python", "Programming", "Data Science"]
+    }
+  ]
+  
