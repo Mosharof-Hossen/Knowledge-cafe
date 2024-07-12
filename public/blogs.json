@@ -7,7 +7,7 @@
       "author_img": "https://i.ibb.co/gWJCSHL/boy1.png",
       "posted_date": "June 15, 2023",
       "reading_time": 5,
-      "hashtags": ["JavaScript", "Programming", "Web Development"]
+      "hashtags": ["JavaScript", "Programming", "Web_Development"]
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "author_img": "https://i.ibb.co/9cvXMDD/boy2.png",
       "posted_date": "May 20, 2023",
       "reading_time": 7,
-      "hashtags": ["CSS", "Web Design", "Grid"]
+      "hashtags": ["CSS", "Web_Design", "Grid"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "author_img": "https://i.ibb.co/m07h458/girl2.jpg",
       "posted_date": "June 10, 2023",
       "reading_time": 6,
-      "hashtags": ["Python", "Programming", "Data Science"]
+      "hashtags": ["Python", "Programming", "Data_Science"]
     }
   ]
   
